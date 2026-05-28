@@ -1,11 +1,13 @@
 # TM-Wiki
 
+Will become a normal webpage. right now just to down all the content. 
+
 ## Content
 
 - [Gears](#gears)
 - [Surfaces](#surfaces)
 - [Effect-Blocks](#effect-blocks)
-- [Tricks/Bugs](#techniques/bugs)
+- [Tricks/Bugs](#techniquesbugs)
 - [Styles](#styles)
 
 ## Gears
